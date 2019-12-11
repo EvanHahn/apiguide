@@ -3,7 +3,7 @@ Building and using APIs
 
 .. recommended::
 
-   Agencies are encouraged to make all digital services available as an API,
+   Agencies are encouraged to make all digital services available as an API.
 
 .. recommended::
 
